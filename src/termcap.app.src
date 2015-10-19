@@ -1,0 +1,10 @@
+{application, 'termcap',
+[{description,"Pure erlang termcap library"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[]},
+              {maintainers,["Heinz N. Gies <heinz@project-fifo.net>"]},
+              {licenses,["MIT"]},
+              {links,[]}]}.
